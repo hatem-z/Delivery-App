@@ -12,4 +12,4 @@
 
 ***Link the App***
 
-  ***https://expo.dev/accounts/hatem_1/projects/delivery-app/builds/fadf8c15-6ac5-4790-8960-317ce610fc7***
+  ***https://expo.dev/accounts/hatem_1/projects/delivery-app/builds/fadf8c15-6ac5-4790-8960-317ce610fc78***
